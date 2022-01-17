@@ -7,7 +7,7 @@ function App({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <title>Title</title>
+        <title>Heitor&apos;s progress bar</title>
         <link rel="shortcut icon" href="/img/" />
         <link rel="apple-touch-icon" href="/img/" />
         <link rel="manifest" href="/manifest.json" />
