@@ -57,8 +57,8 @@ const ProgressBar: React.FC = () => {
           dataKey="Javascript_Introduction"
           fill="#dd31ff"
         />
-        <Bar barSize={100} stackId="a" dataKey="SQL_Full" fill="#ff3131" />
-        <Bar barSize={100} stackId="a" dataKey="CSharp_Full" fill="#7b8125" />
+        <Bar barSize={100} stackId="a" dataKey="SQL_Full" fill="#6252b9" />
+        <Bar barSize={100} stackId="a" dataKey="CSharp_Full" fill="#c8d600" />
         <Bar barSize={100} stackId="a" dataKey="Asp_Net" fill="#3f31ff" />
         <Bar barSize={100} stackId="a" dataKey="Net_Core" fill="#00d9ff" />
         <Bar barSize={100} stackId="a" dataKey="Modern_Web" fill="#021b02" />
