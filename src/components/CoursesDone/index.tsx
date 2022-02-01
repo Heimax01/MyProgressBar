@@ -8,8 +8,7 @@ import {
   Bar,
   XAxis,
   YAxis,
-  Tooltip,
-  Legend
+  Tooltip
 } from 'recharts'
 
 const CoursesDone: React.FC = () => {
