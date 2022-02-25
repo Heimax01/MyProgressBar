@@ -108,6 +108,7 @@ export const CoursesDoneLegendContainer = styled.div`
 
   .course7 {
     margin-top: 2.5rem;
+    color: #6aa84f;
   }
 
   .course8 {

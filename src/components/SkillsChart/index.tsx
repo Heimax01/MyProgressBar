@@ -13,32 +13,32 @@ import {
 const data = [
   {
     subject: 'Front End',
-    A: 95,
+    A: 105,
     fullMark: 150
   },
   {
     subject: 'Back End',
-    A: 85,
+    A: 95,
     fullMark: 150
   },
   {
     subject: 'Design',
-    A: 96,
+    A: 110,
     fullMark: 150
   },
   {
     subject: 'POO',
-    A: 80,
+    A: 100,
     fullMark: 150
   },
   {
     subject: 'MVC',
-    A: 86,
+    A: 110,
     fullMark: 150
   },
   {
     subject: 'SQL',
-    A: 110,
+    A: 120,
     fullMark: 150
   }
 ]
