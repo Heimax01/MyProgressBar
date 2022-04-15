@@ -18,7 +18,7 @@ const data = [
   },
   {
     subject: 'Back End',
-    A: 95,
+    A: 135,
     fullMark: 150
   },
   {
@@ -28,17 +28,17 @@ const data = [
   },
   {
     subject: 'POO',
-    A: 100,
+    A: 120,
     fullMark: 150
   },
   {
     subject: 'MVC',
-    A: 110,
+    A: 140,
     fullMark: 150
   },
   {
     subject: 'SQL',
-    A: 120,
+    A: 130,
     fullMark: 150
   }
 ]

@@ -21,7 +21,7 @@ const CoursesDone: React.FC = () => {
       SQL_Full: 1,
       CSharp_Full: 1,
       Asp_Net: 1,
-      Net_Core: 0,
+      Net_Core: 1,
       Modern_Web: 0
     }
   ]
@@ -40,7 +40,7 @@ const CoursesDone: React.FC = () => {
         <Bar barSize={30} dataKey="SQL_Full" fill="#02990a" />
         <Bar barSize={30} dataKey="CSharp_Full" fill="#02990a" />
         <Bar barSize={30} dataKey="Asp_Net" fill="#02990a" />
-        <Bar barSize={30} dataKey="Net_Core" fill="#00d9ff" />
+        <Bar barSize={30} dataKey="Net_Core" fill="#02990a" />
         <Bar barSize={30} dataKey="Modern_Web" fill="#021b02" />
       </BarChart>
     </ResponsiveContainer>
